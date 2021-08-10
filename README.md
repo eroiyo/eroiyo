@@ -1,4 +1,4 @@
-# Hello, i am Arturo
+# Hello, I am Arturo
  
 A Full-stack web developer. I enjoy solving programming puzzles and problems, and creating nice looking websites
 
